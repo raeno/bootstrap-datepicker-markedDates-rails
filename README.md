@@ -1,4 +1,4 @@
-# Bootstrap::Datepicker::MarkedDates::Rails
+# BootstrapDatepickerMarkedDates::Rails
 
 Rails gem wrapper for a my fork of a bootstrap-datepicker js library.
 Main difference between my fork and original library is a support of marked dates ( days or months).
