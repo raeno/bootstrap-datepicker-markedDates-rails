@@ -1,6 +1,8 @@
 # Bootstrap::Datepicker::MarkedDates::Rails
 
-TODO: Write a gem description
+Rails gem wrapper for a my fork of a bootstrap-datepicker js library.
+Main difference between my fork and original library is a support of marked dates ( days or months).
+It can be used to highlight birthdays, holidays or any other events into calendar view.
 
 ## Installation
 
@@ -15,15 +17,3 @@ And then execute:
 Or install it yourself as:
 
     $ gem install bootstrap-datepicker-markedDates-rails
-
-## Usage
-
-TODO: Write usage instructions here
-
-## Contributing
-
-1. Fork it
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create new Pull Request
